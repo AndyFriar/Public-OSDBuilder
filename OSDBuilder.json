@@ -1,0 +1,6 @@
+{
+	"UpdateOSMediaDownload":  true,
+	"UpdateOSMediaCreateISO":  true,
+    "ImportOSMediaUpdate":  true,
+    "ImportOSMediaBuildNetFX":  true
+}
